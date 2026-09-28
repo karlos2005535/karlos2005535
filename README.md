@@ -1,10 +1,5 @@
-![hyyyyyy]
-(https://giphy.com/gifs/hello-hi-wave-qGvmdlfJ0FtBSwxqA3)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlos2005535&show_icons=true&theme=radical)](https://github.com/karlos2005535)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlos2005535&layout=compact&theme=radical)](https://github.com/karlos2005535)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white)](https://angular.io)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white)](https://www.python.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)](https://www.docker.com)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white)](https://github.com/features/actions)
