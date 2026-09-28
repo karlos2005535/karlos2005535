@@ -3,5 +3,5 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical)](https://github.com/USERNAME_ANDA)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radical)](https://github.com/USERNAME_ANDA)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karlos2005535&show_icons=true&theme=radical)](https://github.com/karlos2005535)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlos2005535&layout=compact&theme=radical)](https://github.com/karlos2005535)
